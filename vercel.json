@@ -1,5 +1,5 @@
 {
-    "builds": [
+    "dist": [
         {
             "src": "./server.js",
             "use": "@vercel/node"
